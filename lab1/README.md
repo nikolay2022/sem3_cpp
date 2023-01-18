@@ -1,6 +1,6 @@
 # lab1
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/nikolay2022/sem3_c-/blob/main/lab1/README.md)
-[![ru](https://github.com/nikolay2022/sem3_c-/blob/main/lab1/README.ru.md)
+[![ru](https://img.shields.io/badge/lang-ru-green.svg)](https://github.com/nikolay2022/sem3_c-/blob/main/lab1/README.ru.md)
 
 
 There is a sequence of arbitrary integer non-zero numbers, in
