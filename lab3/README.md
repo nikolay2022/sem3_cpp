@@ -15,7 +15,7 @@ operations, intermediate calculation interface and the answer itself (3 points).
 2*. A calculator capable of parsing mathematical expressions.
 A parser is a program that parses an input arithmetic
 expression. Programs of this class are sometimes called the same
-"recognisers" (3 points).</br>
+"recognisers".</br>
 Parsing is the process of parsing an input arithmetic expression into
 simpler ingredients.</br>
 Example: https://habr.com/ru/post/263775/</br>
