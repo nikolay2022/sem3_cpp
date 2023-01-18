@@ -1,27 +1,33 @@
-Вам необходимо создать калькулятор, аналог обычного калькулятора
-под Windows. Интерфейс может быть изменен, главное выполнение ключевых
-функций. Обязательное условие создание приложения с использованием
-языка С++, создать приложение можно несколькими способами, наиболее
-простым является через "CLR Empty Project".
+# lab2
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/nikolay2022/sem3_c-/blob/main/lab3/README.md)
+[![ru](https://img.shields.io/badge/lang-ru-green.svg)](https://github.com/nikolay2022/sem3_c-/blob/main/lab3/README.ru.md)
 
-Данное задание имеет два уровня сложности:
-1. Реализация простого калькулятора как на скриншоте выше, т.е. вам
-необходимо реализовать набор кнопок для ввода цифр и арифметических
-операций, интерфейс промежуточных вычислений и сам ответ (3 балла).
-2*. Калькулятор способный парсить математические выражения.
-Парсер — это программа, анализирующая входное арифметическое
-выражение. Программы подобного класса, иногда называют так же
-«распознавателями» (3 балла).
-Парсинг — процесс разбора входного арифметического выражения на
-более простые составляющие.
-Пример: https://habr.com/ru/post/263775/
- Должно быть реализовано окно, в которое можно ввести выражение,
-например, sin(x)*5*(5x+7).
- Также окно для ввода значения переменной x.
- Результат вычисленного значения выражения.
-
-Правила ввода выражений должны соответствовать стандартам.
-Данную задачу можно решить с использованием ООП классов или структур
-каждая из которых будет хранить информацию либо об операции, либо о
-значении переменной. Реализуйте на выбор 10 функций из представленного
-списка ниже (простые арифметические выражения не учитываются). 
+You need to create a calculator, an analogue of a regular calculator
+under Windows. The interface can be changed, the main implementation of the key
+functions. A prerequisite is to create an application using
+C++ language, you can create an application in several ways, most
+simple is through "CLR Empty Project".
+
+This task has two difficulty levels:
+1. Implementation of a simple calculator as in the screenshot above, i.e. to you
+it is necessary to implement a set of buttons for entering numbers and arithmetic
+operations, intermediate calculation interface and the answer itself (3 points).
+2*. A calculator capable of parsing mathematical expressions.
+A parser is a program that parses an input arithmetic
+expression. Programs of this class are sometimes called the same
+"recognisers" (3 points).
+Parsing is the process of parsing an input arithmetic expression into
+simpler ingredients.
+Example: https://habr.com/ru/post/263775/
+ A window should be implemented in which you can enter an expression,
+e.g. sin(x)*5*(5x+7).
+ Also a window for entering the value of the variable x.
+ The result of the evaluated value of the expression.
+
+The rules for entering expressions must comply with the standards.
+This problem can be solved using OOP classes or structures
+each of which will store information either about the operation or about
+the value of the variable. Implement a choice of 10 functions from the presented
+list below (simple arithmetic expressions are ignored).
+
+---
