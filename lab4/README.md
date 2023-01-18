@@ -1,19 +1,25 @@
-В данной работе вам дан файл covid.csv, в котором находятся всего два
-столбца: дата и число новых случае заболевания в этот день в России.
-CSV (от англ. Comma-Separated Values — значения, разделённые
-запятыми) — текстовый формат, предназначенный для представления
-табличных данных. Строка таблицы соответствует строке текста, которая
-содержит одно или несколько полей, разделенных запятыми.
-**Задание 1**
-Считайте данные csv файла в любом удобном вам формате, продумайте
-эффективный способ хранения таких данных в памяти компьютера.
-Визуализируйте представленные данные, постройте график зависимости
-числа новых случаев заболевания от даты. По оси абсцисс откладываете дату,
-по оси ординат число новых случаев.
-**Задание 2**
-На вашей локальной машине разверните СУБД (непринципиально
-какую, но лучше PostgreSQL). Загрузите данные файла в таблицу, осуществите
-коннект с БД по средствам языка С++. Визуализируйте данные, аналогично
-заданию 1.
-В итоговой программе у вас должно быть две кнопки, каждая из которых
-отвечает за свой вариант выгрузки данных для визуализации.
+# lab4
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/nikolay2022/sem3_c-/blob/main/lab4/README.md)
+[![ru](https://img.shields.io/badge/lang-ru-green.svg)](https://github.com/nikolay2022/sem3_c-/blob/main/lab4/README.ru.md)
+
+In this work, you are given a covid.csv file, which contains only two
+column: date and number of new cases on that day in Russia.
+CSV (from English Comma-Separated Values - values ​​separated
+commas) is a text format intended to represent
+tabular data. A row in the table corresponds to a line of text that
+contains one or more fields separated by commas.
+**Exercise 1**
+Read the csv file data in any format convenient for you, think over
+efficient way to store such data in computer memory.
+Visualize the presented data, build a dependency graph
+number of new cases since date. Plot the date on the x-axis
+along the y-axis, the number of new cases.
+**Task 2**
+On your local machine, deploy the DBMS (unprincipled
+which one, but PostgreSQL is better). Load file data into table, execute
+connection with the database using the C++ language. Visualize data similarly
+task 1.
+In the final program, you should have two buttons, each of which
+is responsible for its own version of uploading data for visualization.
+
+---
