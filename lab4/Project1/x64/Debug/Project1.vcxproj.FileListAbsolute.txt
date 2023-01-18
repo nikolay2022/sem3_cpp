@@ -1,0 +1,12 @@
+A:\уч\3 семестр\Unlimited Code Works - контора по выполнению лаб нерадивых студентиков\Lab4 Якушов\Project1\x64\Debug\Project1.vcxproj.AssemblyReference.cache
+A:\уч\3 семестр\Unlimited Code Works - контора по выполнению лаб нерадивых студентиков\Lab4 Якушов\Project1\x64\Debug\Project1.vcxproj.SuggestedBindingRedirects.cache
+A:\уч\3 семестр\Unlimited Code Works - контора по выполнению лаб нерадивых студентиков\Lab4 Якушов\Project1\x64\Debug\Project1.MyForm.resources
+A:\уч\3 семестр\Unlimited Code Works - контора по выполнению лаб нерадивых студентиков\Lab4 Якушов\Project1\x64\Debug\Project1.vcxproj.GenerateResource.cache
+C:\Users\kutlu\Desktop\Lab4\Project1\x64\Debug\Project1.vcxproj.AssemblyReference.cache
+C:\Users\kutlu\Desktop\Lab4\Project1\x64\Debug\Project1.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\kutlu\Desktop\Lab4\Project1\x64\Debug\Project1.MyForm.resources
+C:\Users\kutlu\Desktop\Lab4\Project1\x64\Debug\Project1.vcxproj.GenerateResource.cache
+C:\Users\Mrnik\Desktop\Новая папка\lab4\Project1\x64\Debug\Project1.vcxproj.AssemblyReference.cache
+C:\Users\Mrnik\Desktop\Новая папка\lab4\Project1\x64\Debug\Project1.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Mrnik\Desktop\Новая папка\lab4\Project1\x64\Debug\Project1.MyForm.resources
+C:\Users\Mrnik\Desktop\Новая папка\lab4\Project1\x64\Debug\Project1.vcxproj.GenerateResource.cache

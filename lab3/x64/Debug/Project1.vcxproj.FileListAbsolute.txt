@@ -1,0 +1,10 @@
+C:\Users\Mrnik\Desktop\l1\Project1\x64\Debug\Project1.vcxproj.AssemblyReference.cache
+C:\Users\Mrnik\Desktop\l1\Project1\x64\Debug\Project1.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Mrnik\Desktop\l1\Project1\x64\Debug\Project1.exe
+C:\Users\Mrnik\Desktop\l1\Project1\x64\Debug\Project1.MyForm.resources
+C:\Users\Mrnik\Desktop\l1\Project1\x64\Debug\Project1.vcxproj.GenerateResource.cache
+C:\Users\Mrnik\Desktop\Project1\x64\Debug\Project1.vcxproj.AssemblyReference.cache
+C:\Users\Mrnik\Desktop\Project1\x64\Debug\Project1.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Mrnik\Desktop\Project1\x64\Debug\Project1.MyForm.resources
+C:\Users\Mrnik\Desktop\Project1\x64\Debug\Project1.vcxproj.GenerateResource.cache
+C:\Users\Mrnik\Desktop\Project1\x64\Debug\Project1.exe
